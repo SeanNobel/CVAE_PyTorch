@@ -1,2 +1,2 @@
 # CVAE_PyTorch
-Just for learning.
+Just for fun.
